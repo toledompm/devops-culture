@@ -1,6 +1,21 @@
 # todo-app
 Basic node.js api used as a base to implement basic DevOps procedures
 
+## Workflows:
+### Merges to main:
+  - Triggers CI steps
+  - Unit/Integration tests
+  - Audit dependencies
+  - Manually aproved CD (with manual approval)
+  - Build & push Docker image
+
+### CD application:
+  - Retrieve secrets
+  - Replace container
+  - Run DB migrations
+
+### CD infrastructure:
+  - provision: EC2, S3, RDS, Cloudwatch & Logs
 
 ## DevOps concepts:
 ### CI:
