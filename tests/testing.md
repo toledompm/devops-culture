@@ -46,3 +46,9 @@ TODO
 ### Non-function testing or performance testing
 
 TODO
+
+## References
+
+- https://www.guru99.com/software-testing-introduction-importance.html
+- https://www.guru99.com/functional-testing.html
+- https://www.guru99.com/unit-testing-guide.html
