@@ -5,8 +5,8 @@ Version control is simply the control of changes to project files, in order to m
 Version control can avoid several problems, for example, files or documents are altered by two people in parallel and one overwrites the previous change, it also prevents the loss of functional files that have been altered and presented problems etc.
 
 ### Benefits
-Having an efficient version control still helps to maintain the quality of the product, helping to keep all customers with the same version of the product, or if different versions of the same product are needed if any of the customers has special needs.
-For project management, in addition to allowing several people to work in parallel on a project, it also allows you to work on a project in different versions, for example, part of the team finalizing version 1.0 while another part is already working on version 2.0.
+Having an efficient version control still helps to maintain the quality of the product, helping to keep all developer with the same version of the product, or if different versions of the same product are needed if any of the developer has special needs.
+For project management, in addition to allowing several people to work in parallel on a project, **it also allows working with different versions of a project**, for example, part of the team finalizing version 1.0 while another part is already working on version 2.0.
 
 ### What is it for?
 * History control
@@ -18,7 +18,7 @@ For project management, in addition to allowing several people to work in parall
 ---
 
 ### GITHUB
-GitHub is a website that opens development version control software through the Git system.
+GitHub is a tool that opens development version control software through the Git system.
 Through this system, two or more people can edit existing files or create without risking that their changes will be erased by the modifications of other team members. This is useful for the most different types of projects.
 
 ### Commits
@@ -26,7 +26,7 @@ Commits are points within a project's editing history and are made up of a set o
 
 ### Branches
 Branches are for programmers to be able to work on larger functionalities, which demand more development time, without affecting the current version of the application. GitHub creates a copy of the directory which can then be developed in isolation, without affecting the central repository or other branches.
-When work is completed on a branch, it can be joined to other branches through the process known as merge. In case you want to join this isolated branch with the central repository.
+When work is completed on a branch, it can be joined to other branches through the process known as merge.
 
 ### Pull Request
 Pull Request, the person responsible for managing the project will receive a request to analyze the request and decide whether or not to accept a certain contribution. This serves both to merge branches with the central repository and to allow someone to copy the files to their personal computer.
@@ -35,9 +35,9 @@ The method is also useful for initiating code reviews and general discussions ab
 ---
 
 ## Commit Process
-Whenever you add, edit or delete a file, you are committing and adding it to your branch. This process of adding commits keeps track of your progress while you work on a branch.
+When added, edited or deleted a file, you are committing and adding it to your branch. This process of adding commits keeps track of your progress while you work on a branch.
 
-Commit messages are important, especially since Git tracks your changes and displays them as commits as soon as they are sent to the server. By writing clear confirmation messages, you can make it easier for others to follow and provide feedback.
+Commit messages are important, especially since Git tracks changes and displays them as commits as soon as they are sent to the server. By writing clear confirmation messages, this can be easier for others to follow and provide feedback.
 
 Commit messages must start with a verb saying what action that commit will implement on the project.
 
@@ -59,7 +59,7 @@ When we upload our updates to the repository, a button like this will appear on 
 
 ![PR Button](https://i.stack.imgur.com/7yscx.png)
 
-When you click on it, GitHub itself automatically analyzes your branch's commit with the most recent commit from the master, to check for conflicts (different information on the same line of code).
+GitHub itself automatically analyzes the branch's commit with the most recent commit from the master, to check for conflicts (different information on the same line of code).
 
 After that add two people to review the code and then just complete the pull request.
 
@@ -67,7 +67,7 @@ After that add two people to review the code and then just complete the pull req
 
 ## Code Review Process
 Code review is a code review practice that is widely used and important that can bring many benefits to the product and the team developing it.
-When you are chosen to review the code, follow the steps:
+Those chosen to review the code, follow the steps:
 * Understand the purpose of the PR and see if the changes meet its objective;
 * Be objective when commenting a part of the code;
 * When suggesting an alternative to improve the problem, present references so that it is understood by everyone;
