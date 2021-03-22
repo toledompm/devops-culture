@@ -35,7 +35,7 @@ The method is also useful for initiating code reviews and general discussions ab
 ---
 
 ## Commit Process
-When added, edited or deleted a file, you are committing and adding it to your branch. This process of adding commits keeps track of your progress while you work on a branch.
+When added, edited or deleted a file, commits are added to the branch. This process of adding commits keeps track of the progress while working on a branch.
 
 Commit messages are important, especially since Git tracks changes and displays them as commits as soon as they are sent to the server. By writing clear confirmation messages, this can be easier for others to follow and provide feedback.
 
