@@ -32,12 +32,28 @@ Some steps of functional testing are:
 
 Some examples of functional testing are:
 
+- User Acceptance Testing
 - Unit testing
 - Integration testing
+
+### User Acceptance Testing
+
+User Acceptance Testing, a.k.a UAT, is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done and uncommonly in parallel to catch missing requirements in Beta environment.
+
+The main Purpose of UAT is to validate end to end business flow. It is carried out in a separate testing environment with production-like data setup. It is kind testing where two or more end-users will be involved.
+
+### UAT Roles
+
+- **UAT Tester** should possess good knowledge of the business. He should be independent and think as an unknown user to the system. Tester should be Analytical and Lateral thinker and combine all sort of data to make the UAT successful.
+- The **End User, customer or stakeholders** to confirm business objectives
 
 ### Unit testing
 
 Is a type of software testing where individual units or components of a software are tested. The purpose is to validate each unit of the software code performs as expected, isolating code sections and verifying their correctness. Unit testing is done during the development/coding phase of an application by the developers or QA engineers, when there are time concern or relutance of developers to test.
+
+### Unit testing Roles
+
+- This testing methodology is done during the development process by the software developers and sometimes QA staff
 
 ### Integration testing
 
@@ -52,3 +68,4 @@ TODO
 - https://www.guru99.com/software-testing-introduction-importance.html
 - https://www.guru99.com/functional-testing.html
 - https://www.guru99.com/unit-testing-guide.html
+- https://www.guru99.com/user-acceptance-testing.html
