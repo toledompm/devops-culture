@@ -11,9 +11,6 @@ Dedicated environments for every step of development is a must. It's one of the 
 * Security
 * Reliability
 
-### What is it for?
-* TODO 
-
 ---
 
 ## Development:
@@ -23,12 +20,6 @@ The development environment (dev) is the environment in which changes the softwa
 ## Integration:
 
 The integration environment is comprised by on demand computing, only running (and charging) for the small ammount of time when changes are tested and integrated. It must be able to build and run all tests, while also providing feedback and log traces for debbuging.
-
-#### Github Actions
-
-One of the reasons we chose github as our code versioning provider was its integration environment, github actions. It's easy to setup and as it's host to a vast ammount of comunity made resources, built for automating integration steps.
-
-![GA](https://miro.medium.com/max/1000/1*e2eE4tHIgABdCpFrSY42OA.png)
 
 ## Testing:
 
@@ -45,5 +36,5 @@ The production environment is also known as live, particularly for servers, as i
 ---
 
 ### sources:
-https://medium.com/swlh/environments-in-software-development-cf84adbbf197
-https://deploybot.com/blog/using-multiple-environments-to-improve-your-development-workflow#:~:text=Using%20multiple%20environments%20ensures%20that,and%20made%20available%20to%20users.&text=Here%2C%20developers%20deploy%20their%20code,re%2Ddeploying%20for%20further%20testing.
+* https://medium.com/swlh/environments-in-software-development-cf84adbbf197
+* https://deploybot.com/blog/using-multiple-environments-to-improve-your-development-workflow#:~:text=Using%20multiple%20environments%20ensures%20that,and%20made%20available%20to%20users.&text=Here%2C%20developers%20deploy%20their%20code,re%2Ddeploying%20for%20further%20testing.
