@@ -30,7 +30,7 @@ Steps to do a black-box test:
 - Analyze the system requirements and specifications
 - Choose a valid set of inputs, to form the positive test scenario, to check if the functionality its working as expected. There is also a need to form a negative test scenario where is chosen a set of invalid inputs to check if the functionality tested its able to detect them.
 - Define expected inputs and outputs for all set of inputs
-- Construct test case with the set's of inputs
+- Construct test case with the set of inputs
 - Execute the test cases
 - Compare the expected output with the real ones
 - detects any inconsistency with the real outputs or fixes and re-test.
