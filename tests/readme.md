@@ -15,7 +15,7 @@ Properly tested software ensures reliability, security and product quality which
 
 ### Black-box testing
 
-Also known as Behavioral Testing, is a method focused on the input ant output of software applications, allowing functionalities of the software to be tested without knowledge of its internal code structure. Its based entirely on the software requirements.
+Also known as Behavioral Testing, is a method focused on the input and output of software applications, allowing functionalities of the software to be tested without knowledge of its internal code structure. Its based entirely on the software requirements.
 
 Types of Black-box testing:
 
