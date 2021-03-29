@@ -71,3 +71,11 @@ Within data management best practices, we can’t overlook documentation. It’s
 ## Data quality trust in security and privacy
 
 Priorize the security of our data with strong privacy standards to build a relationship with clients.
+
+### LGDP
+
+Never expose personal data from clients, should be always encripted and setup with different access privileges with rules than others data, with this we can create a trust relationship with clients and mantaining with privacy policy.
+
+### Developers access
+
+Every employee has roles with privileges to access data, each role is given with a clear purpose and reviewed and deprovisioned when no longer is necessary.
