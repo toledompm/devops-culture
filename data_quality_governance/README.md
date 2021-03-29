@@ -20,13 +20,13 @@ We have our conventions that we use when saving our data.
 
 For our Tables, we have some rules and pratices that must be cared for. Our main goal is the fast readability.
 
-The formats names for our tables, columns, keys, etc., is in `snake_case`, and in lower case.
+- The formats names for our tables, columns, keys, etc., is in `snake_case`, and in lower case.
 
-Columns Names we avoid abreviations, just keep your function, if a column is for a description, just called `"description"`.
+- Columns Names we avoid abreviations, just keep your function, if a column is for a description, just called `"description"`.
 
-Every table should have its own row identifier.
+- Every table should have its own row identifier.
 
-Prefix should make sense and be easy to understand.
+- Prefix should make sense and be easy to understand.
 
 ### Date and Time conventions
 
@@ -58,13 +58,13 @@ Within data management best practices, we can’t overlook documentation. It’s
 
 ### Documentation levels
 
-- Project-level.
+- Project-level, we must keep the project level documentation updated with the valuable concepts in .md files to our projects, helping newcomers in a easy way to understand.
 
-- File-level.
+- File-level, help document our most complex codes and have a business rule to make it easy to maintain and implement new features.
 
-- Software used (include the version of the software so if future users are using a different version, they can work through the differences and software issues that might occur).
+- Software used, include the version of the software, if future users are using a different version, they can work through the differences and software issues that might occur, its also a good practice keep the software, version and the options to be installed always an standard.
 
-- Context (it is essential to give any context to the project, why it was created, if hypotheses were trying to be proved or disproved, etc.).
+- Context, it is essential to give any context to the project, why it was created, if hypotheses were trying to be proved or disproved, etc.
 
 ---
 
