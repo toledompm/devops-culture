@@ -35,6 +35,6 @@ The production environment is also known as live, particularly for servers, as i
 
 ---
 
-### sources:
+### Sources:
 * https://medium.com/swlh/environments-in-software-development-cf84adbbf197
 * https://deploybot.com/blog/using-multiple-environments-to-improve-your-development-workflow#:~:text=Using%20multiple%20environments%20ensures%20that,and%20made%20available%20to%20users.&text=Here%2C%20developers%20deploy%20their%20code,re%2Ddeploying%20for%20further%20testing.
