@@ -71,5 +71,3 @@ Within data management best practices, we can’t overlook documentation. It’s
 ## Data quality trust in security and privacy
 
 We have a culture who priorize the security of our data with strong privacy standards to build a relationship with clients.
-
-### Protecting the privacy of their data and information
