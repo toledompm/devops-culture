@@ -9,6 +9,7 @@ services:
     volumes:
       - $PWD:/app
     working_dir: /app
+    entrypoint: "/app/entrypoint.sh"
     command:
       - npm
       - start
