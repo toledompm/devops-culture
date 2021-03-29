@@ -4,25 +4,25 @@ Data quality governance is a discipline that aims to manage and watch over our c
 
 ## Why?
 
-Our amount of data grows exponentially and that is why we prioritize data security, productivity in generating business information and maintaining data and our organizational culture with good practices.
+Our amount of data grows exponentially and that is why to prioritize data security, productivity in generating business information and maintaining data and our organizational culture with good practices.
 
 ## Benefits
 
-Our benefits are a better decision-making, this applies to both bussiness process and for development facilities, being sure that decision will be based on the right data. We also have better data quality to developers spend less time looking up the names of tables, views, and columns.
+Our benefits are a better decision-making, this applies to both bussiness process and for development facilities, being sure that decision will be based on the right data. And have better data quality to developers spend less time looking up the names of tables, views, and columns.
 
 ---
 
 ## Database Catalog Conventions
 
-We have our conventions that we use when saving our data.
+Conventions that should be use when saving our data.
 
 ### Table conventions
 
-For our Tables, we have some rules and pratices that must be cared for. Our main goal is the fast readability.
+For Tables, there are some rules and pratices that must be cared for. The main goal is the fast readability.
 
 - The formats names for our tables, columns, keys, etc., is in `snake_case`, and in lower case.
 
-- Columns Names we avoid abreviations, just keep your function, if a column is for a description, just called `"description"`.
+- Avoid abreviations in column names, just keep your function name, if a column is for a description, just called `"description"`.
 
 - Every table should have its own row identifier.
 
@@ -58,7 +58,7 @@ Within data management best practices, we can’t overlook documentation. It’s
 
 ### Documentation levels
 
-- Project-level, we must keep the project level documentation updated with the valuable concepts in .md files to our projects, helping newcomers in a easy way to understand.
+- Project-level, keeping the project level documentation updated with the valuable concepts in .md files to our projects, helping newcomers in a easy way to understand.
 
 - File-level, help document our most complex codes and have a business rule to make it easy to maintain and implement new features.
 
@@ -70,4 +70,4 @@ Within data management best practices, we can’t overlook documentation. It’s
 
 ## Data quality trust in security and privacy
 
-We have a culture who priorize the security of our data with strong privacy standards to build a relationship with clients.
+Priorize the security of our data with strong privacy standards to build a relationship with clients.
