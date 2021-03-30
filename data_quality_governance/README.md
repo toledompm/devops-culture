@@ -30,9 +30,11 @@ For Tables, there are some rules and pratices that must be cared for. The main g
 
 ### Date and Time conventions
 
-To save dates, the standard format is `YYYY-MM-DD`.
+The format of date and time is standard ISO-8601.
 
-And to save time, the format is `HH:MM:SS:ZZZ`.
+- To save dates, the standard format is `YYYY-MM-DD`.
+
+- And to save time, the format is `HH:MM:SS:ZZZ`.
 
 ---
 
