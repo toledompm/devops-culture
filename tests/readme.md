@@ -87,7 +87,7 @@ Integration Testing is defined as a type of testing where software modules are i
 
 ### Non-function testing or performance testing
 
-Non-Functional testing checks the Performance, reliability, scalability and other non-functional aspects of the software system. It is designed to test the readiness of a system as per nonfunctional parameters which are never addressed by functional testing.
+Non-Functional testing checks the Performance, reliability, scalability and other non-functional aspects of the software system. It is designed to test the readiness of a system as per non-functional parameters which are never addressed by functional testing.
 
 An excellent example of non-functional test would be to check how many people can simultaneously login into a software.
 
