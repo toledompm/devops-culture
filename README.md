@@ -13,12 +13,6 @@ This project describes the implementation of devops culture in a software develo
 ### Repositories
 [Application](https://github.com/toledompm/devops-app)
 
-### TECNOLOGIES
-- Node.js
-- Jest
-- Docker
-- ECS
-- EC2
 
 ### Development pillars
 - [Develop workflow](./config_management/readme.md)
