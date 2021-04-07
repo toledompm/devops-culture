@@ -4,7 +4,7 @@
 This project describes the implementation of devops culture in a software development team. The aim of project is to brings students into devops culture by developing a TODO application applying devops techniques such as the development flow, package, build and deploy flow (Continuous integration and Delivery), software testing documenting the roles involved in the process.
 
 ### TEAM
-* [Jason Davin Oliveira Carneiro](https://www.linkedin.com/in/jason-carneiro/)
+* [Jason Carneiro](https://www.linkedin.com/in/jason-carneiro/)
 * [Leonardo Lopes Nunes](https://www.linkedin.com/in/leonardo-lopes/)
 * [Marcelo Pereira Fernandes](https://www.linkedin.com/in/marcelo-pereira-fernandes/)
 * [Marcos Paulo Mendes Toledo](https://www.linkedin.com/in/marcos-paulo-mendes-toledo-0255b5177/)
