@@ -35,4 +35,4 @@ This project describes the implementation of devops culture in a software develo
 - Basic application building process
 - Unit tests and Integration testing
 - Cloud Introduction
-- ECS
+- Application running in cloud environment
