@@ -12,7 +12,6 @@ Properly tested software ensures reliability, security and product quality which
 
 ## Types of software testing
 
-
 ### Black-box testing
 
 Also known as Behavioral Testing, is a method focused on the input and output of software applications, allowing functionalities of the software to be tested without knowledge of its internal code structure. Its based entirely on the software requirements.
@@ -34,7 +33,6 @@ Steps to do a black-box test:
 - Execute the test cases
 - Compare the expected output with the real ones
 - detects any inconsistency with the real outputs or fixes and re-test.
-
 
 ### Functional testing
 
@@ -81,11 +79,43 @@ Is a type of software testing where individual units or components of a software
 
 ### Integration testing
 
-TODO
+Integration Testing is defined as a type of testing where software modules are integrated logically and tested as a group. A typical software project consists of multiple software modules, coded by different programmers. The purpose of this level of testing is to expose defects in the interaction between these software modules when they are integrated.
+
+### Integration testing Roles
+
+Mostly done by developers but testers can also participate, focusing on important or complex modules.
 
 ### Non-function testing or performance testing
 
-TODO
+Non-Functional testing checks the Performance, reliability, scalability and other non-functional aspects of the software system. It is designed to test the readiness of a system as per non-functional parameters which are never addressed by functional testing.
+
+An excellent example of non-functional test would be to check how many people can simultaneously login into a software.
+
+### Non-functional testing importance
+
+- Non-functional testing should increase usability, efficiency, maintainability, and portability of the product
+- Helps to reduce production risk and cost associated with non-functional aspects of the product
+- Optimize the way product is installed, setup, executes, managed and monitored
+- Collect and produce measurements, and metrics for internal research and development
+- Improve and enhance knowledge of the product behavior and technologies in use
+
+Some parameters for non-functional testing are:
+
+- Security
+- Reliability
+- Survivability
+- Availability
+- Usability
+- Scalability
+- Interoperability
+- Efficiency
+- Flexibility
+- Portability
+- Reusability
+
+## Software testing layers
+
+![Integration Testing](../images/integration-testing.png)
 
 ## References
 
@@ -94,3 +124,4 @@ TODO
 - https://www.guru99.com/functional-testing.html
 - https://www.guru99.com/unit-testing-guide.html
 - https://www.guru99.com/user-acceptance-testing.html
+- https://www.guru99.com/non-functional-testing.html
