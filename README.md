@@ -1,7 +1,7 @@
 # DevOps Culture
 
 ### WHAT IS
-This project describes the implementation of devops culture in a software development team. The aim of project is to brings students into devops culture by developing an TODO application applying devops techniques such as the develop flow, package, build and deploy flow (Continuous integration and Delivery), software testing documeting the roles involved in the process.
+This project describes the implementation of devops culture in a software development team. The aim of project is to brings students into devops culture by developing a TODO application applying devops techniques such as the development flow, package, build and deploy flow (Continuous integration and Delivery), software testing documenting the roles involved in the process.
 
 ### TEAM
 * [Jason Davin Oliveira Carneiro](https://www.linkedin.com/in/jason-carneiro/)
