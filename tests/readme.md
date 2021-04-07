@@ -79,11 +79,11 @@ Is a type of software testing where individual units or components of a software
 
 ### Integration testing
 
-Integration Testing is defined as a type of testing where software modules are integrated logically and tested as a group. A typical software project consists of multiple software modules, coded by different programmers. The purpose of this level of testing is to expose defects in the interaction between these software modules when they are integrated
+Integration Testing is defined as a type of testing where software modules are integrated logically and tested as a group. A typical software project consists of multiple software modules, coded by different programmers. The purpose of this level of testing is to expose defects in the interaction between these software modules when they are integrated.
 
 ### Integration testing Roles
 
-- Mostly done by developers but testers can also participate, focusing on important or complex modules
+Mostly done by developers but testers can also participate, focusing on important or complex modules.
 
 ### Non-function testing or performance testing
 
@@ -93,11 +93,11 @@ An excellent example of non-functional test would be to check how many people ca
 
 ### Non-functional testing importance
 
-- Non-functional testing should increase usability, efficiency, maintainability, and portability of the product.
-- Helps to reduce production risk and cost associated with non-functional aspects of the product.
-- Optimize the way product is installed, setup, executes, managed and monitored.
-- Collect and produce measurements, and metrics for internal research and development.
-- Improve and enhance knowledge of the product behavior and technologies in use.
+- Non-functional testing should increase usability, efficiency, maintainability, and portability of the product
+- Helps to reduce production risk and cost associated with non-functional aspects of the product
+- Optimize the way product is installed, setup, executes, managed and monitored
+- Collect and produce measurements, and metrics for internal research and development
+- Improve and enhance knowledge of the product behavior and technologies in use
 
 Some parameters for non-functional testing are:
 
