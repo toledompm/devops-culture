@@ -20,7 +20,7 @@ This project describes the implementation of devops culture in a software develo
 - ECS
 - EC2
 
-### TODO
+### Development pillars
 - [Develop workflow](./config_management/readme.md)
 - [Software testing](./tests/readme.md)
 - [Environment](./environment/readme.md)
