@@ -115,7 +115,7 @@ Some parameters for non-functional testing are:
 
 ## Software testing layers
 
-![Integration Testing](../images/integration-testing.png)
+![Integration Testing](../assets/images/integration-testing.png)
 
 ## References
 
