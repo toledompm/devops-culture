@@ -23,7 +23,7 @@ This provides the ability to package your application and run it in a loosely is
 
 ## Docker Usage
 
-Containers are great for continuous integrations and continuous delivery (CI/CD) workflows since it simplify the development lifecycle as every team member can use a local container image of the application in development to work and once the work is finished, it can be deploy to a teste environment in order to execute automated tests. If any bug is found it can be fixed and redeploy for validation. Finally when testing is completed the deploys is as simple as push the actual container image to production environment.
+Containers are great for continuous integrations and continuous delivery (CI/CD) workflows since it simplify the development lifecycle as every team member can use a local container image of the application in development to work and once the work is finished, it can be deploy to a test environment in order to execute automated tests. If any bug is found it can be fixed and redeploy for validation. Finally when testing is completed the deploys is as simple as push the actual container image to production environment.
 
 Docker’s container-based platform allows for highly portable workloads. Docker containers can run on a developer’s local laptop, on physical or virtual machines in a data center, on cloud providers, or in a mixture of environments.
 
@@ -38,7 +38,6 @@ https://docs.docker.com/get-started/overview/
 https://www.redhat.com/pt-br/topics/containers/what-is-docker
 
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.0_release_notes/sect-red_hat_enterprise_linux-7.0_release_notes-linux_containers_with_docker_format-advantages_of_using_docker
-
 
 
 
