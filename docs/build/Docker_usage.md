@@ -32,13 +32,11 @@ Docker’s portability and lightweight nature also make it easy to dynamically m
 
 
 
+## References
 
 https://docs.docker.com/get-started/overview/
-
 https://www.redhat.com/pt-br/topics/containers/what-is-docker
-
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.0_release_notes/sect-red_hat_enterprise_linux-7.0_release_notes-linux_containers_with_docker_format-advantages_of_using_docker
-
 
 
 
