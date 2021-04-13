@@ -67,7 +67,7 @@ git push
 
 When we upload our updates to the repository, a button like this will appear on our branch on GitHub:
 
-![PR Button](../assets/images/config_mgm_1.png)
+![PR Button](../../assets/images/config_mgm_1.png)
 
 GitHub itself automatically analyzes the branch's commit with the most recent commit from the master, to check for conflicts (different information on the same line of code).
 
