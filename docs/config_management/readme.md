@@ -92,4 +92,4 @@ Those chosen to review the code, follow the steps:
 
 The merge process is the moment when the changes actually entered the project, after the code review is done, the merge option will appear and they will be added to the main branch.
 
-![Merge Button](../assets/images/config_mgm_2.png)
+![Merge Button](../../assets/images/config_mgm_2.png)
