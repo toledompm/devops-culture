@@ -23,7 +23,9 @@ Docker’s container-based platform allows for highly portable workloads. Docker
 
 Docker’s portability and lightweight nature also make it easy to dynamically manage workloads, scaling up or tearing down applications and services as business needs dictate, in near real time.
 
-### Using [docker images](./docker_images.md)
+## See more
+
+- [Using docker images](./docker_images.md)
 
 ## References
 

@@ -133,6 +133,10 @@ Your .dockerignore file should be located in the root directory, from which you 
 
 - You can also use the **Docker images** command to see the image you’ve just created.
 
+## See more
+
+- [Using docker on cloud infrastructure](../infrastructure/readme.md)
+
 ## References
 
 - https://jfrog.com/knowledge-base/a-beginners-guide-to-understanding-and-building-docker-images/#AnatomyofaDockerImage
