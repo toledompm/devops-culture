@@ -22,6 +22,7 @@ This project describes the implementation of devops culture in a software develo
 - [Software testing](./docs/tests/readme.md)
 - [Environment](./docs/environment/readme.md)
 - [Infrastructure](./docs/infrastructure/readme.md)
+- [Build](./docs/build/readme.md)
 
 ### Sprint 1
 
