@@ -1,4 +1,4 @@
-# [Cloud Infrastructure](./cloud_infrastructure.md)
+# Infrastructure
 
-TODO
-  - sumarize infrastructure 
+- ## [Cloud Infrastructure](./cloud_infrastructure.md)
+- ## [AWS](./aws.md)
