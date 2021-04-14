@@ -33,10 +33,10 @@ Networks are built, both physically and virtually. Physical networks bring resou
 There are a lot of big names in the cloud market, some of them are covered in this repo. here's a list:
 
 - [AWS](./aws.md)
-- Red Hat Cloud
-- Azure
-- Google Cloud
-- Oracle
+- [Red Hat Cloud](https://www.redhat.com/pt-br/technologies/cloud-computing/cloud-suite)
+- [Microsoft Azure](https://azure.microsoft.com/pt-br/overview/)
+- [Google Cloud](https://cloud.google.com/docs/overview?hl=pt-br)
+- [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
 
 ## References
 - https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-infrastructure
