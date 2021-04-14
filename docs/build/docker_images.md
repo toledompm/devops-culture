@@ -98,8 +98,6 @@ You should receive a header with the images information as bellow
 
 - Finally return to your interactive container shell and type in exit to shut it down.
 
-
-
 ### Dockerfile method
 
 In short, the Dockerfile method is a three-step process whereby you:
@@ -135,8 +133,6 @@ Your .dockerignore file should be located in the root directory, from which you 
 
 - You can also use the **Docker images** command to see the image you’ve just created.
 
-
-
 ## References
 
-https://jfrog.com/knowledge-base/a-beginners-guide-to-understanding-and-building-docker-images/#AnatomyofaDockerImage
+- https://jfrog.com/knowledge-base/a-beginners-guide-to-understanding-and-building-docker-images/#AnatomyofaDockerImage
