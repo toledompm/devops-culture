@@ -4,7 +4,7 @@ Amazon Elastic Container Service (Amazon ECS) is a highly scalable, fast, manage
 
 ## Amazon ECS clusters
 
-An Amazon ECS cluster is a logical grouping of **tasks** or **services**. A cluster is also a logical grouping of capacity providers. And also allows to create multiple clusters to keep resources separate.
+An Amazon ECS cluster is a logical grouping of **tasks** or **services**, as well as a logical grouping of capacity providers. Multiple clusters can be created to keep resources separate.
 
 ## Amazon ECS tasks
 
