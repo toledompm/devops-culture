@@ -14,7 +14,8 @@ This project describes the implementation of devops culture in a software develo
 
 ### Repositories
 
-[Application](https://github.com/toledompm/devops-app)
+- [Application](https://github.com/toledompm/devops-app)
+- [Infrastructure](https://github.com/toledompm/devops-infrastructure)
 
 ### Development pillars
 
