@@ -37,3 +37,18 @@ This project describes the implementation of devops culture in a software develo
 - Unit tests and Integration testing
 - Cloud Introduction
 - Application running in cloud environment
+
+### Sprint 3
+
+- Application packaginhg
+- Database
+- Declarative Infrastructure
+- Application CI/CD
+- Access control (IAM Users)
+
+### Sprint 4
+
+- Infrastructure CI/CD
+- Application and Infrastructure Monitoring
+- Test Coverage
+- Staging Enviroment
