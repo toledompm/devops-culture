@@ -55,7 +55,11 @@ Select to configure the Amazon ECS service that is created from your task defini
 
 - In Task Placement select **AZ Balanced template**.
  
-## See More
+## See more
+
+[Infrastructure as Code](./iac.md)
+
+## References
 
 - [Getting started with Amazon ECS using EC2](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html)
 - [What is container orchestration?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
