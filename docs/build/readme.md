@@ -4,19 +4,25 @@ Software portability is the process in which a software is developed and deploye
 
 The Pre-requirement for portability is the generalized abstraction between the application logic and system interfaces. When software with the same functionality is produced for several computing platforms, portability is the key issue for development cost reduction.
 
-# Why care for Software portability?
+## Why care for Software portability?
 
 For Dev-ops teams, portability comes with stability. With it, you won't have different behaviors on different platforms, you won't waste time addressing environment related configs. It eliminates any possible scenario were you would have to tuning your environment every single staging. 
 
 For Dev teams, portable software can be easily used on other platforms. This means that if your dev team moves to different environment, you won't waste time and resources on re-development.
 
+## Application building
+
+Packaging source-code into an executable or binary is a big part of software portability. It allows for easy redistribution, as whoever gets a hold of the application, is not required to build it, or be responsible for finding and downloading dependencies.
+
+The actual steps for building an application varies wildly depending on platform, architecture, development tools etc. But the principles and benefits hold through.
+
 ## How to Implement Software Portability
 
 Portability has 3 dimensions: 
 
-- Vertical (Development lifecycle): it refers to the software consistency through the whole development lifecycle;
+- Vertical (Development lifecycle): It refers to the software consistency through the whole development lifecycle;
 - Horizontal (Platform/provider migration): Horizontal stands for platform/dependency flexibility;
-- Deep (Replication):Deep means how scalable and replicable your code/architecture/software is;
+- Deep (Replication): Deep means how scalable and replicable your code/architecture/software is;
 
 ### Strategies for Portability
 
@@ -27,6 +33,7 @@ Portability has 3 dimensions:
 ## See more
 
 - [Portability with Docker](./docker.md)
+- [Application building with Typescript](./typescript_compiling.md)
 
 ## References
 
