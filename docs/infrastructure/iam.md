@@ -2,7 +2,7 @@
 
 ## What is IAM?
 
-Is a permission system that regulates acces to AWS resources, helps the administrator define who can access what in an AWS account.
+Is a permission system that regulates access to AWS resources, helps the administrator define who can access what in an AWS account.
 
 Allows to assign permissions to groups of users or an specific user, permissions can give access of entire AWS Services, like EC2, ECS, RDS, etc,. Or even to one specific service.
 
@@ -22,5 +22,53 @@ Can integrate with other Identity Tech like Microsoft ActiveDirectory, Google IA
 
 - Policies: Low level permission to access AWS resources, a permission can allow or deny, ex:
 
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "ReadAndWriteDatabase",
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:Scan",
+        "dynamodb:Query"
+      ],
+      "Resource": [
+        "arn:aws:dynamodb:us-east-1::table/Transactions"
+      ]
+    }
+  ]
+}
+```
+
+---
+
+## Best Pratices
+
+### Use Least Priviliege Model
+
+This means to give the users the minimun permissions to execute a task, avoiding unecessary disasters.
+
+### Validate your policies
+
+Is recommended the review and validation of all existing policies. IAM Access Analyzer provides over 100 policy checks and actionable recommendations to help secure and functional policies.
+
+### Do not share access keys
+
+Do not embed access keys within unencrypted code or share these security credentials between users in your AWS account.
+
 ## See more
 
+[Amazon Web Services](./aws.md)
+
+[AWS Elastic Container Service](./ecs.md)
+
+[Infrastructute](./readme.md)
+
+## References
+
+- [What is user management?](https://jumpcloud.com/blog/what-is-user-management)
+
+- [What is IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+
+- [Managing access keys for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
