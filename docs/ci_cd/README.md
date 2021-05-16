@@ -6,5 +6,5 @@ The "CI" in CI/CD always refers to continuous integration, which is an automatio
 The "CD" in CI/CD refers to continuous delivery and/or continuous deployment, which are related concepts that sometimes get used interchangeably. Both are about automating further stages of the pipeline, but they’re sometimes used separately to illustrate just how much automation is happening.
 
 You can check here about them with a few more details:
-- [CI]()
-- [CD]()
+- [CI](/docs/ci_cd/ci.md)
+- [CD](/docs/ci_cd/cd.md)
