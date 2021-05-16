@@ -9,3 +9,5 @@ In the past, developers on a team can work in isolation for a long time and only
 ### How does continuous integration work?
 A seamless integration service that automatically creates and runs unit tests on new code changes to immediately spot all errors.
 Among many other actions that he can perform.
+
+![Ci WorkFlow](/assets/images/ci_1.png)
