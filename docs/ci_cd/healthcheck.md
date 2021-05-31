@@ -7,7 +7,17 @@ One important step in continuous delivery, is guaranteeing a healthy start for t
 Certain routines can be executed in case of healthcheck failures, such as alarms, or in some cases even rollbacks to a previous, healthy revision.
 
 ## Healthchecks in ECS
-We can set healthcheck parameters directly in our `task-definition.json`, here's an example from our example repository:
+We can set healthcheck parameters directly in our `task-definition.json`, here's a snippet from our example repository:
+``` json
+...
+      "healthCheck": {
+        "command": ["CMD-SHELL", "curl -f http://localhost:APP_PORT || exit 1"],
+        "interval": 30,
+        "retries": 3,
+        "timeout": 5
+      }
+...
+```
 [devops-app/task-definition.json](https://github.com/toledompm/devops-app/blob/main/task-definition.json#L40-L45)
 
 For a more in depth look, there is the official AWS documentation in the references section.
