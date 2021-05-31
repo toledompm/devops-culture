@@ -14,4 +14,4 @@ Metrics are a crucial aspect of the application monitoring system. It is importa
 This requires automated visibility, made possible by a comprehensive application monitoring software program. Although it is not a complete list, you should consider the following aspects for effective application monitoring.
 
 ### Monitoring services
-- Amazon Cloudwatch
+- [Amazon Cloudwatch](/cloudwatch.md)
