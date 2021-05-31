@@ -12,3 +12,6 @@ Most IT departments spend more time reacting to problems than trying to identify
 ### Metrics?
 Metrics are a crucial aspect of the application monitoring system. It is important to track various components of your system and have several different perspectives if you want to be able to pinpoint the root cause of delays accurately and quickly.
 This requires automated visibility, made possible by a comprehensive application monitoring software program. Although it is not a complete list, you should consider the following aspects for effective application monitoring.
+
+### Monitoring services
+- Amazon Cloudwatch
