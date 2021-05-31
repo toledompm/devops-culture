@@ -9,3 +9,6 @@ The final step in a solid CI / CD pipeline is continuous deployment. It is a com
 In practice, continuous deployment means that changing the developer on an application will be enabled after a few minutes after recording (assuming it passes the automated test). This makes it much easier to receive feedback from users and incorporate it. Together, all of these related CI / CD practices decrease the risk of deploying applications, making it easier to launch changes in small parts, rather than all at once. However, there is also a need for many initial investments, as automated tests need to be recorded to accommodate various testing and launch steps in the CI / CD pipeline.
 
 ![CD Context](/assets/images/cd_1.png)
+
+## See more
+- [healthchecks](/docs/ci_cd/healthcheck.md)
