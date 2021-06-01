@@ -15,3 +15,7 @@ This requires automated visibility, made possible by a comprehensive application
 
 ### Monitoring services
 - [Amazon Cloudwatch](cloudwatch.md)
+
+### References
+- https://aws.amazon.com/cloudwatch/?nc2=type_a
+- https://gdsolutions.com.br/gestao-de-ti/monitoramento-de-aplicacoes
