@@ -18,4 +18,5 @@ The gain of the flexibility in selecting the O.S, programming language, a lot of
 
 ## See More
 
-- [Amazon ECS](./ecs.md)
+- [Cloud infrastructure](./readme.md)
+- [Container orchestration](./container_orchestration.md)

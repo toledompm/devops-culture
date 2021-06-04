@@ -31,12 +31,13 @@ Terraform lifecycle consists of - init, plan, apply, and destroy.
 - Terraform apply then makes the changes in the infrastructure as defined in the plan, and the infrastructure comes to the desired state.
 - Terraform destroy is used to delete all the old infrastructure resources, which are marked tainted after the apply phase.
 
-## See more
-
-[AWS ECR for image repository as service](./ecr.md)
-
 ## References
 
 - https://www.terraform.io/
 - https://geekflare.com/terraform-for-beginners/#:~:text=Terraform%20Core%20concepts&text=Provider%3A%20It%20is%20a%20plugin,and%20access%20its%20related%20resources.&text=Data%20Source%3A%20It%20is%20implemented,be%20used%20by%20other%20configurations.
 - https://www.terraform.io/intro/index.html
+
+## See more
+
+- [Infrastructure as Code](./iac.md)
+- [AWS ECR for image repository as service](./ecr.md)

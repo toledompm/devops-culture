@@ -8,22 +8,26 @@ Integration with AWS Identity and Access Management (IAM) provides resource-leve
 
 ## Benefits
 
-##### Effort reducing with a fully managed registry
+### Effort reducing with a fully managed registry
 
 Amazon Elastic Container Registry eliminates the need to operate and scale the infrastructure required to power your container registry. There is no software to install and manage or infrastructure to scale. Just push your container images to Amazon ECR and pull the images using any container management tool when you need to deploy.
 
-##### Fast and highly available access
+### Fast and highly available access
 
 Amazon Elastic Container Registry has a highly scalable, redundant, and durable architecture. Your container images are highly available and accessible, allowing you to reliably deploy new containers for your applications. You can reliably distribute public container images as well as related files such as helm charts and policy configurations for use by any developer. ECR automatically replicates container software to multiple AWS Regions to reduce download times and improve availability.
 
-##### Securely sharing and download of container images
+### Securely sharing and download of container images
 
 Amazon Elastic Container Registry transfers your container images over HTTPS and automatically encrypts your images at rest. You can configure policies to manage permissions and control access to your images using AWS Identity and Access Management (IAM) users and roles without having to manage credentials directly on your EC2 instances.
 
-### Workflow deployment simplified
+## Workflow deployment simplified
 
 Amazon Elastic Container Registry integrates with Amazon EKS, Amazon ECS, AWS Lambda, and the Docker CLI, allowing you to simplify your development and production workflows. You can easily push your container images to Amazon ECR using the Docker CLI from your development machine, and integrated AWS services can pull them directly for production deployments. Publishing container software is as easy as a single command from CI/CD workflows used in the software developer process.
 
 ## References
 
 - https://aws.amazon.com/ecr
+
+## See more
+
+- [Terraform tool for Infra as Code](./terraform.md)

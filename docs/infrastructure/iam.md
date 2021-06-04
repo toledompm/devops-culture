@@ -41,8 +41,6 @@ Can integrate with other Identity Tech like Microsoft ActiveDirectory, Google IA
 }
 ```
 
----
-
 ## Best Pratices
 
 ### Use Least Priviliege Model
