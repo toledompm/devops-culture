@@ -6,11 +6,11 @@ With IaC, configuration files are created that contain your infrastructure speci
 
 By codifying and documenting the configuration specifications, IaC aids configuration management and helps to avoid undocumented, ad-hoc configuration changes.
 
-Version control is an important part of IaC, and the configuration files should be under source control just like any other software source code file. 
+Version control is an important part of IaC, and the configuration files should be under source control just like any other software source code file.
 
 Deploying infrastructure as code also means that it can divide the infrastructure into modular components that can then be combined in different ways through automation.
 
-IaC is an important part of implementing DevOps practices and continuous integration/continuous delivery (CI/CD). IaC takes away the majority of provisioning work from developers, who can execute a script to have their infrastructure ready to go.  
+IaC is an important part of implementing DevOps practices and continuous integration/continuous delivery (CI/CD). IaC takes away the majority of provisioning work from developers, who can execute a script to have their infrastructure ready to go.
 
 ## Benefits
 
@@ -20,7 +20,7 @@ Some benefits
 
 - Cost reduction
 - Increase in speed of deployments
-- Reduce errors 
+- Reduce errors
 - Improve infrastructure consistency
 - Eliminate configuration drift
 
@@ -30,7 +30,7 @@ The same deployment process should be used for every environment, including the 
 
 ## Popular choices
 
-Server automation and configuration management tools can often be used to achieve IaC. There are also solutions specifically for IaC. 
+Server automation and configuration management tools can often be used to achieve IaC. There are also solutions specifically for IaC.
 
 These are a few popular choices:
 
@@ -38,13 +38,14 @@ These are a few popular choices:
 - Puppet
 - Red Hat Ansible Automation Platform
 - Saltstack
-- Terraform 
+- Terraform
 - AWS CloudFormation
-
-## See more
-
-[Terraform tool for Infra as Code](./terraform.md)
 
 ## References
 
 - https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac#:~:text=Infrastructure%20as%20Code%20(IaC)%20is,to%20edit%20and%20distribute%20configurations.
+
+## See more
+
+- [Resources security with IAM](./iam.md)
+- [Terraform tool for Infra as Code](./terraform.md)

@@ -1,8 +1,6 @@
 # AWS Identity Access Management (IAM)
 
-## What is IAM?
-
-Is a permission system that regulates access to AWS resources, helps the administrator define who can access what in an AWS account.
+IAM is a permission system that regulates access to AWS resources, helps the administrator define who can access what in an AWS account.
 
 Allows to assign permissions to groups of users or an specific user, permissions can give access of entire AWS Services, like EC2, ECS, RDS, etc,. Or even to one specific service.
 
@@ -10,9 +8,9 @@ Provides an mecanism to monitor and audit by specific resource, by enabling AWS 
 
 Can integrate with other Identity Tech like Microsoft ActiveDirectory, Google IAM, LDAP, etc.
 
-## How IAM Works
+## IAM concepts
 
-4 key concepts: Users, Groups, Roles, and Policies/Permissions.
+There are 4 IAM key concepts: Users, Groups, Roles, and Policies/Permissions.
 
 - Users: Specific Individuals, can receive personal logins to connect to AWS Console or AWS CLI with generated secrets keys.
 
@@ -29,19 +27,12 @@ Can integrate with other Identity Tech like Microsoft ActiveDirectory, Google IA
     {
       "Sid": "ReadAndWriteDatabase",
       "Effect": "Allow",
-      "Action": [
-        "dynamodb:Scan",
-        "dynamodb:Query"
-      ],
-      "Resource": [
-        "arn:aws:dynamodb:us-east-1::table/Transactions"
-      ]
+      "Action": ["dynamodb:Scan", "dynamodb:Query"],
+      "Resource": ["arn:aws:dynamodb:us-east-1::table/Transactions"]
     }
   ]
 }
 ```
-
----
 
 ## Best Pratices
 
@@ -57,18 +48,13 @@ Is recommended the review and validation of all existing policies. IAM Access An
 
 Do not embed access keys within unencrypted code or share these security credentials between users in your AWS account.
 
-## See more
-
-[Amazon Web Services](./aws.md)
-
-[AWS Elastic Container Service](./ecs.md)
-
-[Infrastructute](./readme.md)
-
 ## References
 
 - [What is user management?](https://jumpcloud.com/blog/what-is-user-management)
-
 - [What is IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
-
 - [Managing access keys for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
+
+## See more
+
+- [AWS ECR for image repository as service](./ecr.md)
+- [Infrastructure as Code](./iac.md)

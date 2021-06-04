@@ -23,12 +23,13 @@ Docker’s container-based platform allows for highly portable workloads. Docker
 
 Docker’s portability and lightweight nature also make it easy to dynamically manage workloads, scaling up or tearing down applications and services as business needs dictate, in near real time.
 
-## See more
-
-- [Using docker images](./docker_images.md)
-
 ## References
 
 - https://docs.docker.com/get-started/overview/
 - https://www.redhat.com/pt-br/topics/containers/what-is-docker
 - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.0_release_notes/sect-red_hat_enterprise_linux-7.0_release_notes-linux_containers_with_docker_format-advantages_of_using_docker
+
+## See more
+
+- [Software portability](./readme.md)
+- [Using docker images](./docker_images.md)

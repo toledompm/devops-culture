@@ -4,9 +4,9 @@ Software portability is the process in which a software is developed and deploye
 
 The Pre-requirement for portability is the generalized abstraction between the application logic and system interfaces. When software with the same functionality is produced for several computing platforms, portability is the key issue for development cost reduction.
 
-## Why care for Software portability?
+## Importance
 
-For Dev-ops teams, portability comes with stability. With it, you won't have different behaviors on different platforms, you won't waste time addressing environment related configs. It eliminates any possible scenario were you would have to tuning your environment every single staging. 
+For Dev-ops teams, portability comes with stability. With it, you won't have different behaviors on different platforms, you won't waste time addressing environment related configs. It eliminates any possible scenario were you would have to tuning your environment every single staging.
 
 For Dev teams, portable software can be easily used on other platforms. This means that if your dev team moves to different environment, you won't waste time and resources on re-development.
 
@@ -16,9 +16,9 @@ Packaging source-code into an executable or binary is a big part of software por
 
 The actual steps for building an application varies wildly depending on platform, architecture, development tools etc. But the principles and benefits hold through.
 
-## How to Implement Software Portability
+## Software portability implementation
 
-Portability has 3 dimensions: 
+Portability has 3 dimensions:
 
 - Vertical (Development lifecycle): It refers to the software consistency through the whole development lifecycle;
 - Horizontal (Platform/provider migration): Horizontal stands for platform/dependency flexibility;
@@ -30,13 +30,15 @@ Portability has 3 dimensions:
 - Reinstalling a program from distribution files on another computer of basically the same architecture.
 - Building executable programs for different platforms from source code (this is usually called “porting”);
 
-## See more
-
-- [Portability with Docker](./docker.md)
-- [Application building with Typescript](./typescript_compiling.md)
-
 ## References
 
 - https://developerexperience.io/practices/software-portability
 - https://en.wikipedia.org/wiki/Software_portability
 - https://www.pcmag.com/encyclopedia/term/software-portability
+
+## See more
+
+- [Software testing](../tests/readme.md)
+- [Portability with Docker](./docker.md)
+- [Docker images](./docker_images.md)
+- [Application build and compiling](./compiling.md)
