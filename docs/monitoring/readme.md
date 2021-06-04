@@ -27,5 +27,5 @@ This requires automated visibility, made possible by a comprehensive application
 
 ## See more
 
-- [AWS ECR for image repository as service](./ecr.md)
+- [AWS ECR for image repository as service](../infrastructure/ecr.md)
 - [Monitoring using AWS CloudWatch](./cloudwatch.md)
