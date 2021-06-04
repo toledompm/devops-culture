@@ -13,4 +13,3 @@ CloudWatch collects monitoring and operational data in the form of logs, metrics
 ## See more
 
 - [Application monitoring](./readme.md)
-- [Infrastructure as Code](../infrastructure/iac.md)

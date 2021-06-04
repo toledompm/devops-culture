@@ -15,3 +15,4 @@ Each workflow consists of individual actions that are performed after a specific
 ## See more
 
 - [Applications healthcheck](./healthcheck.md)
+- [Applications monitoring](../monitoring/readme.md)

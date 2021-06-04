@@ -46,3 +46,8 @@ There are a lot of big names in the cloud market, some of them are covered in th
 
 - [Application build and compiling](../build/compiling.md)
 - [Using AWS as cloud provider](./aws.md)
+- [Container orchestration](./container_orchestration.md)
+- [AWS ECR for image repository as service](./ecr.md)
+- [AWS Identity Access Management (IAM)](./iam.md)
+- [Infrastructure as Code](./iac.md)
+- [Terraform](./terraform.md)

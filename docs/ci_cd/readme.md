@@ -14,3 +14,6 @@ The "CD" in CI/CD refers to continuous delivery and/or continuous deployment, wh
 
 - [Terraform tool for Infra as Code](../infrastructure/terraform.md)
 - [Continuous integration - CI](./ci.md)
+- [Continuous delivery and Continuous deployment](./cd.md)
+- [Applications healthcheck](./healthcheck.md)
+- [GitHub Actions](./github_actions.md)

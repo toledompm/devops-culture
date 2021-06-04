@@ -47,5 +47,5 @@ These are a few popular choices:
 
 ## See more
 
-- [Monitoring using AWS CloudWatch](../monitoring/cloudwatch.md)
+- [Resources security with IAM](./iam.md)
 - [Terraform tool for Infra as Code](./terraform.md)

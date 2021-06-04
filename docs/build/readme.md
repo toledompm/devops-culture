@@ -40,3 +40,5 @@ Portability has 3 dimensions:
 
 - [Software testing](../tests/readme.md)
 - [Portability with Docker](./docker.md)
+- [Docker images](./docker_images.md)
+- [Application build and compiling](./compiling.md)

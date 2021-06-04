@@ -31,4 +31,4 @@ Amazon Elastic Container Registry integrates with Amazon EKS, Amazon ECS, AWS La
 ## See more
 
 - [Container orchestration](./container_orchestration.md)
-- [Application monitoring](../monitoring/readme.md)
+- [Resources security with IAM](./iam.md)
