@@ -40,3 +40,4 @@ Terraform lifecycle consists of - init, plan, apply, and destroy.
 ## See more
 
 - [Infrastructure as Code](./iac.md)
+- [Understanding CI/CD](../ci_cd/readme.md)
