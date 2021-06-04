@@ -125,3 +125,8 @@ Some parameters for non-functional testing are:
 - https://www.guru99.com/unit-testing-guide.html
 - https://www.guru99.com/user-acceptance-testing.html
 - https://www.guru99.com/non-functional-testing.html
+
+## See more
+
+- [Software environments](../environments/readme.md)
+- [Software portability](../build/readme.md)

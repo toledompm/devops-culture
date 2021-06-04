@@ -7,11 +7,13 @@ An important point, is that Typescript is just a superset of Javascript, every `
 ## Transpiling
 
 The easiest way to download Typescript (and it`s compiler), is through npm:
+
 - global install: `npm install -g typescript`
 - local install: `npm install --save-dev typescript`
 
 After that, the projects settings must be defined. For that a `tsconfig.json` file is needed.
-``` json
+
+```json
 # simple tsconfig.json example
 {
   "compilerOptions": {
@@ -24,22 +26,25 @@ After that, the projects settings must be defined. For that a `tsconfig.json` fi
 ```
 
 The next step, is to actually transpile the project!
-``` bash
+
+```bash
 $ tsc index.ts
 ```
 
 This will generate a `.js` counterpart in the directory defined in the `outDir` option that can be directly executed.
-``` bash
+
+```bash
 $ node ./dist/index.js
 ```
 
 The entire output directory can now be transported, without any need for the dependencies associated with typescript development needed to run it.
 
-## See more
-
-- [Portability with Docker](./docker.md)
-- [Software Portability](./readme.md)
-
 ## References
+
 - https://code.visualstudio.com/docs/typescript/typescript-compiling
 - https://serokell.io/blog/why-typescript
+
+## See more
+
+- [Using docker images](./docker_images.md)
+- [Deploying applications on cloud](../infrastructure/readme.md)

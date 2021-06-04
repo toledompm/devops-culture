@@ -19,9 +19,9 @@ This project describes the implementation of devops culture in a software develo
 
 ### Development pillars
 
-- [Develop workflow](./docs/config_management/readme.md)
-- [Software testing](./docs/tests/readme.md)
+- [Develop workflow](./docs/code_versioning/readme.md)
 - [Environment](./docs/environment/readme.md)
+- [Software testing](./docs/tests/readme.md)
 - [Building](./docs/build/readme.md)
 - [Infrastructure](./docs/infrastructure/readme.md)
 

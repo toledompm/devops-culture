@@ -38,9 +38,11 @@ There are a lot of big names in the cloud market, some of them are covered in th
 - [Google Cloud](https://cloud.google.com/docs/overview?hl=pt-br)
 - [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
 
+## References
+
+- https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-infrastructure
+
 ## See more
 
+- [Application build and compiling](../build/compiling.md)
 - [Using AWS as cloud provider](./aws.md)
-
-## References
-- https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-infrastructure
