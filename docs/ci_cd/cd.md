@@ -1,4 +1,5 @@
-## Continuous delivery
+# Continuous delivery
+
 After performing the automation of the builds and the unit and the integration tests in CI, the continuous delivery automates the release of this validated code in a repository. Therefore, to have an effective continuous delivery process, it is important that CI is already integrated into the development pipeline. The goal of continuous delivery is to ensure a code base that is always ready for deployment in a production environment.
 
 Each step of continuous delivery, from consolidating code changes to delivering production-ready builds, includes automating code launching and testing. At the end of this process, the operations team can quickly and easily deploy an application to production.
@@ -11,4 +12,6 @@ In practice, continuous deployment means that changing the developer on an appli
 ![CD Context](/assets/images/cd_1.png)
 
 ## See more
-- [healthchecks](/docs/ci_cd/healthcheck.md)
+
+- [Continuous integration - CI](./ci.md)
+- [Applications healthcheck](./healthcheck.md)

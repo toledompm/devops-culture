@@ -72,4 +72,4 @@ Select to configure the Amazon ECS service that is created from your task defini
 ## See more
 
 - [Amazon Web Services](./aws.md)
-- [Infrastructure as Code](./iac.md)
+- [AWS ECR for image repository as service](./ecr.md)

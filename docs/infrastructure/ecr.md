@@ -30,4 +30,5 @@ Amazon Elastic Container Registry integrates with Amazon EKS, Amazon ECS, AWS La
 
 ## See more
 
-- [Terraform tool for Infra as Code](./terraform.md)
+- [Container orchestration](./container_orchestration.md)
+- [Application monitoring](../monitoring/readme.md)

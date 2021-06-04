@@ -40,4 +40,3 @@ Terraform lifecycle consists of - init, plan, apply, and destroy.
 ## See more
 
 - [Infrastructure as Code](./iac.md)
-- [AWS ECR for image repository as service](./ecr.md)

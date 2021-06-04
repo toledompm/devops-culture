@@ -47,5 +47,5 @@ These are a few popular choices:
 
 ## See more
 
-- [Container orchestration](./container_orchestration.md)
+- [Monitoring using AWS CloudWatch](../monitoring/cloudwatch.md)
 - [Terraform tool for Infra as Code](./terraform.md)
