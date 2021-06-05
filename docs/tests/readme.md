@@ -128,5 +128,6 @@ Some parameters for non-functional testing are:
 
 ## See more
 
+- [Test Coverage](test_coverage.md)
 - [Software environments](../environments/readme.md)
 - [Software portability](../build/readme.md)
