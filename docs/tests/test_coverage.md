@@ -10,6 +10,7 @@ Test coverage are one of the most fundamentals metrics used to analyse, meansure
     - [Statement coverage](#statement-coverage)
     - [Function coverage](#function-coverage)
     - [Call coverage](#call-coverage)
+  - [See More](#see-more)
 
 ## What is Test Coverage
 
@@ -48,3 +49,7 @@ It refers to a number of functions that are susceptible to be tested, for say ex
 ### Call coverage
 
 The difference from [Function coverage](#function-coverage), is that Call coverage calculate the percentage of executed software function calls. It is a structural coverage metric that helps to judge the degree of testing at the architectual level.
+
+## See More
+
+- [Software Testing](./readme.md)
